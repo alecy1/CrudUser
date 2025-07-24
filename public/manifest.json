@@ -1,6 +1,6 @@
 {
-  "short_name": "CrudUser",
-  "name": "Crud",
+  "short_name": "Crud for user",
+  "name": "CRUD for user registration",
   "icons": [
     {
       "src": "favicon.ico",
