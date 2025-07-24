@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alecy1/CrudUser/static/css/main.bc95da83.css",
+    "main.js": "/alecy1/CrudUser/static/js/main.2ffe6a2b.js",
+    "index.html": "/alecy1/CrudUser/index.html",
+    "main.bc95da83.css.map": "/alecy1/CrudUser/static/css/main.bc95da83.css.map",
+    "main.2ffe6a2b.js.map": "/alecy1/CrudUser/static/js/main.2ffe6a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc95da83.css",
+    "static/js/main.2ffe6a2b.js"
+  ]
+}
